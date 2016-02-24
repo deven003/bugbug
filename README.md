@@ -1,0 +1,2 @@
+# BugBug
+Simple bug tracking 
